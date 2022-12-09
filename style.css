@@ -1,0 +1,61 @@
+body {
+    background-color: black;
+}
+
+#barra {
+    background-color: #dda15e;
+}
+
+.redes a {
+    padding: 0 0.2rem;
+}
+
+#name {
+    font-size: 1.3rem;
+    color: black;
+}
+
+.contenedores {
+    border-radius: 32px;
+}
+
+#contenedor1 {
+    height: 75vh;
+}
+
+.contenedor-portada {
+    height: 300px;
+}
+
+.imagen-portada {
+    border-radius: 32px 32px 0 0;
+    max-height: 100%;
+    object-fit: cover;
+}
+
+.perfil {
+    bottom: 16%;
+    left: 4%;
+}
+
+.perfil-texto {
+    bottom: 17%;
+    left: 40%;
+}
+
+#perfil {
+    z-index: 100;
+    top: 260px;
+    left: 40px;
+    background-color: aqua;
+}
+
+#img-perfil {
+    width: 9rem;
+    height: 9rem;
+}
+
+.cuerpo {
+    position: absolute;
+    top: 10rem;
+}
